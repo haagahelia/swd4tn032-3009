@@ -1,4 +1,4 @@
-# Ohjelmointi 1, syksy 2020 ⚙️
+# Ohjelmointi 1, syksy 2020 ☀️
 
 Tervetuloa Haaga-Helian ohjelmointi 1 -opintojaksolle! Tämä GitHub-repositorio toimii toteutuksen swd4tn032-3009 kotisivuna, materiaalipankkina sekä lähdekoodien jakelukanavana.
 
@@ -26,7 +26,7 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 Kurssin järjestelyt ja osallistumisen vahvistaminen<br />
                 Eclipse-sovelluskehitin<br />
                 Perustietotyypit</strong><br />
-                <a href="https://vw4.viope.com/login?org=hh">🔗 Viope-rekisteröityminen</a> (valitse <em>Ohjelmointi 1, SWD4TN032-3009 ⚙️</em>)<br />
+                <a href="https://vw4.viope.com/login?org=hh">🔗 Viope-rekisteröityminen</a> (valitse <em>Ohjelmointi 1, SWD4TN032-3009 ☀️</em>)<br />
                 <a href="../../wiki/Ohjelmoinnin-aloitus">📝 Muistiinpanot</a><br />
                 <!--a href="src/viikko1/perusteet/th">📁 Esimerkkikoodit (TH)</a><br /-->
             </td>
@@ -233,7 +233,7 @@ Saat käyttää myös muita työkaluja, mutta niihin ei voida tarjota käyttötu
 
 Kurssin harjoitustehtävien tehtävänannot löytyvät Viope-järjestelmästä, jonne tehtävät myös palautetaan, ja joka tarkistaa tehtävät automaattisesti. 
 
-Rekisteröidy Viopeen osoitteessa: https://vw4.viope.com/login?org=hh. Huomaa että rekisteröitymisosoitteessa on oltava parametri `?org=hh`, jotta pääset käsiksi Haaga-Helian kurssitarjontaan. Rekisteröityessäsi valitse tämä toteutus `swd4tn032-3009 ⚙️`.
+Rekisteröidy Viopeen osoitteessa: https://vw4.viope.com/login?org=hh. Huomaa että rekisteröitymisosoitteessa on oltava parametri `?org=hh`, jotta pääset käsiksi Haaga-Helian kurssitarjontaan. Rekisteröityessäsi valitse tämä toteutus `swd4tn032-3009 ☀️`.
 
 **Teknisistä syistä johtuen Viopeen palautettavista lähdekoodeista täytyy aina poistaa mahdolliset package -lauseet luokan yläpuolelta.** Viope on myös muilla tavoin erittäin tarkka ohjelmien oikeellisuudesta, mikä saattaa aiheuttaa ensimmäisillä viikoilla hämmennystä. Tyypillisiä Viope-virhetilanteita ja niiden ratkaisuja on dokumentoitu [erilliselle wiki-sivulle](../../wiki/Viope), jota päivitetään kurssin edetessä.
 
