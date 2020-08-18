@@ -172,7 +172,7 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 <a href="https://video.haaga-helia.fi/media/Poikkeukset+osa+1A+try%2C+catch%2C+throw%2C+finally/0_vll0cxij">📼 Poikkeukset osa 1: try, catch, throw, finally </a><br />
                 <a href="https://video.haaga-helia.fi/media/Poikkeukset+osa+2A+KysyUudestaan/0_0cdojqx9">📼 Poikkeukset osa 2: KysyUudestaan</a><br />
                 <a href="https://video.haaga-helia.fi/media/PoikkeuksetA+stack+trace%2C+poikkeustyypit+ja+poikkeusten+heitt%C3%A4minen/0_x7o4wbyy">📼 Poikkeukset osa 3: Stack trace, poikkeustyypit ja poikkeusten heittäminen </a><br />
-                <a href="https://video.haaga-helia.fi/media/PoikkeuksetA+omat+poikkeusluokat/0_13i68b5g">📼 Poikkeukset 4: omat poikkeusluokat (vapaaehtoinen lisäsisältö)</a><br />
+                <a href="https://video.haaga-helia.fi/media/PoikkeuksetA+omat+poikkeusluokat/0_13i68b5g">📼 Poikkeukset osa 4: omat poikkeusluokat (vapaaehtoinen lisäsisältö)</a><br />
             </td>
         </tr>
         <tr>
@@ -259,20 +259,24 @@ Tällä  kurssilla opetellaan Java-kielen syntaksia, mutta erityisesti pyrimme o
 
 
 ```java
-public class OsasuoritustenArviointi {
+package arviointi;
 
-    public static double laskeArvosana(int omatPisteet, int maksimiPisteet) {
-        // hyväksyttyyn arvosanaan vaaditaan 40 % pisteistä
-        double minimiPisteet = maksimiPisteet * 0.4;
+import static arviointi.OsasuoritustenArviointi.laskeArvosana;
 
-        if (omatPisteet < minimiPisteet) {
-            return 0;
+public class KurssinArviointi {
+    // tehtävien ja kokeen maksimipisteet lukitaan kurssin aikana:
+    private static int viopeMaksimi;
+    private static int kokeenMaksimi;
+
+    public static int laskeLoppuarvosana(int tehtavienPisteet, int kokeenPisteet) {
+        double viopeArvosana = laskeArvosana(tehtavienPisteet, viopeMaksimi);
+        double kokeenArvosana = laskeArvosana(kokeenPisteet, kokeenMaksimi);
+
+        if (viopeArvosana > 0 && kokeenArvosana > 0) {
+            double keskiarvo = (viopeArvosana + kokeenArvosana) / 2;
+            return (int) Math.round(keskiarvo);
         } else {
-            // minimipisteillä saa arvosanan 1, maksimipisteillä arvosanan 5
-            double arvosana = 1 + 4 * (omatPisteet - minimiPisteet) / (maksimiPisteet - minimiPisteet);
-
-            // arvosana voi olla korkeintaan 5 bonuspisteet huomioiden
-            return Math.min(5, arvosana);
+            return 0;
         }
     }
 }
