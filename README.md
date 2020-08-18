@@ -4,7 +4,7 @@ Tervetuloa Haaga-Helian ohjelmointi 1 -opintojaksolle! Tämä GitHub-repositorio
 
 ## Oppitunnit
 
-Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanantaisin klo 8-10:45 ja keskiviikkoisin klo 9-11:45 MS Teamsissa. Osa oppitunneista tallennetaan myös myöhempää katselua varten. 
+Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanantaisin klo 8-10:45 ja keskiviikkoisin klo 9-11:45 MS Teamsissa. Osa oppitunneista tallennetaan myös myöhempää katselua varten. Lisäksi käytettävissänne on tallenteita aikaisemmilta ohjelmointikursseilta sekä tekstimuotoiset muistiinpanot kultakin oppitunnilta.
 
 
 ## Aikataulu
@@ -80,6 +80,11 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 <a href="../../wiki/Taulukot-(arrays)">📝 Muistiinpanot</a><br />
                 <!--a href="src/viikko3/taulukot/th">📁 Esimerkkikoodit (TH)</a><br /-->
                 <a href="https://cscircles.cemc.uwaterloo.ca/java_visualize/">🔗 Java Visualizer -työkalu</a><br />
+                <br/>
+                <em>Lisämateriaali:</em><br />
+                <a href="https://video.haaga-helia.fi/media/Taulukot+osa+1/0_mbinzbve">📼 Taulukot osa 1</a><br />
+                <a href="https://video.haaga-helia.fi/media/Taulukot+osa+2A+Arrays-apuluokka/0_jorn81gr">📼 Taulukot osa 2: Arrays-apuluokka</a><br />
+                <a href="https://video.haaga-helia.fi/media/Taulukot+osa+3A+SanojenVaihtaminen/0_nm4j9anr">📼 Malliratkaisu (SanojenVaihtaminen, Arrays.toString, String.join)</a><br />
             </td>
         </tr>
         <tr>
@@ -101,7 +106,10 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 Komentoriviparametrit</strong><br />
                 <a href="../../wiki/Ajan-k%C3%A4sittely-Javassa">📝 Muistiinpanot</a><br />
                 <!--a href="src/viikko4/aika/th">📁 Esimerkkikoodit (TH)</a><br /-->
+                <br/>
+                <em>Lisämateriaali:</em><br />
                 <a href="https://docs.oracle.com/javase/8/docs/api/java/time/LocalDate.html">🔗 Java API: LocalDate</a><br />
+                <a href="https://video.haaga-helia.fi/media/Luokat+ja+oliot+osa+6/0_4xlz2stq">📼 Ajan käsittely Javassa</a><br />
             </td>
         </tr>
         <tr>
@@ -115,6 +123,12 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 <a href="../../wiki/Oliot">📝 Muistiinpanot</a><br />
                 <!--a href="src/viikko4/oliot/th">📁 Esimerkkikoodit (TH)</a><br />
                 <br /-->
+                <br/>
+                <em>Lisämateriaali:</em><br />
+                <a href="https://video.haaga-helia.fi/media/Luokat+ja+oliot+osa+1/0_njq4rntg">📼 Olio-ohjelmoinnin teoriaosuus</a><br />
+                <a href="https://video.haaga-helia.fi/media/Luokat+ja+oliot+osa+2/0_4jqh6858">📼 Auto-tehtävän malliratkaisu</a><br />
+                <a href="https://video.haaga-helia.fi/media/Luokat+ja+oliot+osa+3/0_20k2dkco">📼 Debuggerin käyttäminen ohjelman suorituksen tutkimiseksi</a><br />
+                <a href="https://video.haaga-helia.fi/media/Luokat+ja+oliot+osa+5/0_u5i95q8h">📼 null-viittaukset, NullPointerException ja viittausten kopiointi</a><br />
             </td>
         </tr>
         <tr>
@@ -127,6 +141,10 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 <a href="../../wiki/osoitekirja_projekti">📝 Esimerkin speksi (TH)</a><br />
                 <!--a href="src/viikko5/oliot/addressbook/th">📁 Esimerkkikoodit (AddressBook, TH)</a><br />
                 <br /-->
+                <br/>
+                <em>Lisämateriaali:</em><br />
+                <a href="https://video.haaga-helia.fi/media/Luokat+ja+oliot+osa+7+++kokoojamuuttuja/0_8k2wjem9">📼 Kokoojamuuttujan hyödyntäminen Playlist-tehtävän kaltaisessa ongelmassa</a><br />
+                <a href="">📼 Pelaajat listalla / "olioiden summan laskeminen"</a><br />
             </td>
         </tr>
         <tr>
@@ -136,6 +154,9 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 <strong>Olioiden vertailu ja järjestäminen</strong><br/> 
                 <a href="../../wiki/Olioiden-vertailu">📝 Muistiinpanot</a><br />
                 <!--a href="src/viikko6/oliot/vertailu">📁 Esimerkkikoodit (TH)</a><br /-->
+                <br/>
+                <em>Lisämateriaali:</em><br />
+                <a href="https://video.haaga-helia.fi/media/Viittaukset%2C+alkeistietotyypit+ja+null/0_xqxbgc52">📼 Viittaukset, alkeistietotyypit ja null</a><br />
             </td>
         </tr>
         <tr>
@@ -146,6 +167,12 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 <a href="../../wiki/Poikkeukset">📝 Muistiinpanot</a><br />
                 <!--a href="src/viikko6/poikkeukset/th">📁 Esimerkkikoodit (TH)</a><br />
                 <a href="src/viikko5/oliot/addressbook/th">📁 Esimerkkikoodit (AddressBook, TH)</a><br /-->
+                <br/>
+                <em>Lisämateriaali:</em><br />
+                <a href="https://video.haaga-helia.fi/media/Poikkeukset+osa+1A+try%2C+catch%2C+throw%2C+finally/0_vll0cxij">📼 Poikkeukset osa 1: try, catch, throw, finally </a><br />
+                <a href="https://video.haaga-helia.fi/media/Poikkeukset+osa+2A+KysyUudestaan/0_0cdojqx9">📼 Poikkeukset osa 2: KysyUudestaan</a><br />
+                <a href="https://video.haaga-helia.fi/media/PoikkeuksetA+stack+trace%2C+poikkeustyypit+ja+poikkeusten+heitt%C3%A4minen/0_x7o4wbyy">📼 Poikkeukset osa 3: Stack trace, poikkeustyypit ja poikkeusten heittäminen </a><br />
+                <a href="https://video.haaga-helia.fi/media/PoikkeuksetA+omat+poikkeusluokat/0_13i68b5g">📼 Poikkeukset 4: omat poikkeusluokat (vapaaehtoinen lisäsisältö)</a><br />
             </td>
         </tr>
         <tr>
@@ -154,6 +181,9 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
             <td>
                 <strong>Tekstitiedostojen lukeminen ja tallentaminen</strong><br />
                 <a href="../../wiki/Tiedostot">📝 Muistiinpanot</a><br />
+                <br/>
+                <em>Lisämateriaali:</em><br />
+                <a href="https://video.haaga-helia.fi/media/Tiedostojen+k%C3%A4sittely/0_96nk6czv">📼 Tiedostojen käsittely</a><br />
                 <!--a href="src/viikko7/tiedostot/th/weather">📁 Weather data -esimerkki (TH)</a><br />
                 <a href="csv/saatiedot.csv">📁 saatiedot.csv (<a href="https://en.ilmatieteenlaitos.fi/open-data-licence">© Ilmatieteen laitos</a>)</a><br />
                 <a href="src/viikko7/tiedostot/th">📁 Muut esimerkkikoodit (TH)</a><br /-->
@@ -189,13 +219,15 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
 
 # Kurssin sisältö
 
-Tunneilla opetellaan ohjelmoinnin perusteita sekä hyviä ohjelmointikäytäntöjä ja käydään läpi esimerkkejä. Lisäksi opiskelijat ohjelmoivat tuntitehtäviä ja saavat niihin ohjausta. Kurssin suorittamiseksi sinun tulee palauttaa hyväksytysti automaattisesti arvioitavia harjoitustehtäviä Viope-järjestelmään sekä suorittaa kurssin lopuksi järjestettävä laitekoe.
+Tunneilla opetellaan ohjelmoinnin perusteita sekä hyviä ohjelmointikäytäntöjä ja käydään läpi esimerkkejä. Lisäksi opiskelijat ohjelmoivat tuntitehtäviä ja saavat niihin ohjausta. Kurssin suorittamiseksi sinun tulee palauttaa hyväksytysti automaattisesti arvioitavia harjoitustehtäviä Viope-järjestelmään sekä suorittaa kurssin lopuksi järjestettävä koe. Koe sisältää harjoitustehtävien kaltaisia ohjelmointitehtäviä ja se tehdään tietokoneella.
 
 ## Kehitys ohjelmistokehittäjänä
 
 > "The biggest mistake I see new programmers make is focusing on learning syntax instead of learning how to solve problems."
 >
 > [V. Anton Spraul](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
+
+Tällä  kurssilla opetellaan Java-kielen syntaksia, mutta erityisesti pyrimme opettelemaan ohjelmistokehityksen kannalta hyödyllisiä ajatusmalleja ja ongelmanratkaisutapoja. Ajatusmallit ja ongelmanratkaisukyky ovat myöhemmin sovellettavissa eri ohjelmointikielillä ja eri tyyppisissä sovelluksissa.
 
 **1. Think like a computer**
   * Opimme ymmärtämään "miten tietokone" toimii ja mitkä ovat Javan peruspilarit
@@ -206,26 +238,72 @@ Tunneilla opetellaan ohjelmoinnin perusteita sekä hyviä ohjelmointikäytäntö
   * Ymmärrettävyys, jatkokehitettävyys, ylläpidettävyys, testattavuus
 
 **3. Work like a programmer**
-  * Opimme hyödyntämään ammattimaisen ohjelmistokehittäjien työkaluja kuten versionhallintaa ja yksikkötestausta (näistä lisää Ohjelmointi 2:lla)
+  * Opimme hyödyntämään ammattimaisen ohjelmistokehittäjien työkaluja kuten kehitysympäristöä, versionhallintaa ja yksikkötestausta (opettelu jatkuu Ohjelmointi 2:lla)
 
 
 ## Kurssin arviointi
 
-1. Automaattisesti arvioitavat Viope-tehtävät (50% loppuarvosanasta)
+1. Automaattisesti arvioitavat Viope-tehtävät (50 % loppuarvosanasta)
 
-   Tehtäviä saa tehdä pareittain, mutta molempien on osallistuttava aktiivisesti työskentelyyn ja palautettava ratkaisu Viopeen
+   * tehtäviä saa tehdä pareittain, mutta molempien on osallistuttava aktiivisesti työskentelyyn ja palautettava oma ratkaisu Viopeen
 
-   Vähintään 40% tehtävistä on oltava tehty kurssikokeeseen mennessä
-   Arvostellaan asteikolla 0-5 (40% - 100% tehtävistä)
+   * vähintään 40 % tehtävistä on oltava tehty kurssikokeeseen mennessä
 
-2. Kurssikoe (50% loppuarvosanasta)
-Arvostellaan asteikolla 0-5
+   * arvostellaan asteikolla 0-5 (40 % - 100 % tehtävistä)
 
+2. Kurssikoe (50 % loppuarvosanasta)
+
+    * sisältää harjoitustehtävien kaltaisia ohjelmointitehtäviä
+
+    * arvostellaan asteikolla 0-5
+
+
+```java
+public class OsasuoritustenArviointi {
+
+    public static double laskeArvosana(int omatPisteet, int maksimiPisteet) {
+        // hyväksyttyyn arvosanaan vaaditaan 40 % pisteistä
+        double minimiPisteet = maksimiPisteet * 0.4;
+
+        if (omatPisteet < minimiPisteet) {
+            return 0;
+        } else {
+            // minimipisteillä saa arvosanan 1, maksimipisteillä arvosanan 5
+            double arvosana = 1 + 4 * (omatPisteet - minimiPisteet) / (maksimiPisteet - minimiPisteet);
+
+            // arvosana voi olla korkeintaan 5 bonuspisteet huomioiden
+            return Math.min(5, arvosana);
+        }
+    }
+}
+```
+
+```java
+package arviointi;
+
+public class OsasuoritustenArviointi {
+
+    public static double laskeArvosana(int omatPisteet, int maksimiPisteet) {
+        // hyväksyttyyn arvosanaan vaaditaan 40 % pisteistä
+        double minimiPisteet = maksimiPisteet * 0.4;
+
+        if (omatPisteet < minimiPisteet) {
+            return 0;
+        } else {
+            // minimipisteillä saa arvosanan 1, maksimipisteillä arvosanan 5
+            double arvosana = 1 + 4 * (omatPisteet - minimiPisteet) / (maksimiPisteet - minimiPisteet);
+
+            // arvosana voi olla korkeintaan 5 bonuspisteet huomioiden
+            return Math.min(5, arvosana);
+        }
+    }
+}
+```
 ## Kurssin työkalut
 
 **Java ja Eclipse IDE**
 
-Tarvitset Java-ohjelmien kehittämiseksi ja suorittamiseksi [Java JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html):n (vähintään versio 9). Lähdekooditiedostojen editointiin ja ohjelmien suorittamiseen käytämme tällä kurssilla Eclipse-kehitysympäristöä, jonka voit ladata itsellesi [täältä](https://www.eclipse.org/downloads/packages/). Ole tarkkana ja valitse **Eclipse IDE for Java EE Developers**, kun asennusohjelma kysyy asennuksen tyyppiä.
+Tarvitset Java-ohjelmien kehittämiseksi ja suorittamiseksi [Java JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html):n (vähintään versio 9). Lähdekooditiedostojen editointiin ja ohjelmien suorittamiseen käytämme tällä kurssilla Eclipse-kehitysympäristöä, jonka voit ladata itsellesi [täältä](https://www.eclipse.org/downloads/packages/). Ole tarkkana ja valitse **Eclipse IDE for Enterprise Java Developers**, kun asennusohjelma kysyy asennuksen tyyppiä.
 
 Saat käyttää myös muita työkaluja, mutta niihin ei voida tarjota käyttötukea.
 
