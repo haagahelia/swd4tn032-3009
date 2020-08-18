@@ -3,6 +3,7 @@ package arviointi;
 import static arviointi.OsasuoritustenArviointi.*;
 
 public class KurssinArviointi {
+    // tehtävien ja kokeen maksimipisteet lukitaan kurssin aikana:
     private static int viopeMaksimi;
     private static int kokeenMaksimi;
 
