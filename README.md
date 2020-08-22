@@ -1,6 +1,12 @@
 # Ohjelmointi 1, syksy 2020 ☀️
 
-Tervetuloa Haaga-Helian ohjelmointi 1 -opintojaksolle! Tämä GitHub-repositorio toimii toteutuksen swd4tn032-3009 kotisivuna, materiaalipankkina sekä lähdekoodien jakelukanavana.
+Tervetuloa Haaga-Helian ohjelmointi 1 -opintojaksolle! 
+
+Kurssin opettajana toimii Teemu Havulinna (etunimi.sukunimi@haaga-helia.fi). Kurssi järjestetään etätyösuosituksen mukaisesti etäopetuksena. 
+
+Tämä GitHub-repositorio toimii toteutuksen swd4tn032-3009 kotisivuna, materiaalipankkina sekä lähdekoodien jakelukanavana.
+
+
 
 ## Oppitunnit
 
@@ -307,7 +313,7 @@ public class OsasuoritustenArviointi {
 
 **Java ja Eclipse IDE**
 
-Tarvitset Java-ohjelmien kehittämiseksi ja suorittamiseksi [Java JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html):n (vähintään versio 9). Lähdekooditiedostojen editointiin ja ohjelmien suorittamiseen käytämme tällä kurssilla Eclipse-kehitysympäristöä, jonka voit ladata itsellesi [täältä](https://www.eclipse.org/downloads/packages/). Ole tarkkana ja valitse **Eclipse IDE for Enterprise Java Developers**, kun asennusohjelma kysyy asennuksen tyyppiä.
+Tarvitset Java-ohjelmien kehittämiseksi ja suorittamiseksi [Java JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html):n (vähintään versio 9). Lähdekooditiedostojen editointiin ja ohjelmien suorittamiseen käytämme tällä kurssilla Eclipse-kehitysympäristöä, jonka voit ladata itsellesi [täältä](https://www.eclipse.org/downloads/packages/). Ole tarkkana ja valitse versio **Eclipse IDE for Enterprise Java Developers**.
 
 Saat käyttää myös muita työkaluja, mutta niihin ei voida tarjota käyttötukea.
 
