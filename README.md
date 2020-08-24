@@ -34,7 +34,7 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 Perustietotyypit</strong><br />
                 <a href="https://vw4.viope.com/login?org=hh">🔗 Viope-rekisteröityminen</a> (valitse <em>Ohjelmointi 1, SWD4TN032-3009 ☀️</em>)<br />
                 <a href="../../wiki/Ohjelmoinnin-aloitus">📝 Muistiinpanot</a><br />
-                <!--a href="src/viikko1/perusteet/th">📁 Esimerkkikoodit (TH)</a><br /-->
+                <a href="src/viikko1/perusteet/">📁 Oppitunnin esimerkkikoodit</a><br />
             </td>
         </tr>
         <tr>
