@@ -35,6 +35,15 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 <a href="https://vw4.viope.com/login?org=hh">🔗 Viope-rekisteröityminen</a> (valitse <em>Ohjelmointi 1, SWD4TN032-3009 ☀️</em>)<br />
                 <a href="../../wiki/Ohjelmoinnin-aloitus">📝 Muistiinpanot</a><br />
                 <a href="src/viikko1/perusteet/">📁 Oppitunnin esimerkkikoodit</a><br />
+                <br /><br />
+                <strong>Videot:</strong><br />
+                <a href="https://web.microsoftstream.com/video/2d26c6ab-1852-404c-a509-15b43cb3dd64">📼 Eclipse-sovelluskehitin ja tehtävän palauttaminen Viopeen</a><br />
+                <a href="https://web.microsoftstream.com/video/955af22a-09ec-4bc6-acac-1215bab1bece">📼 Java-kääntäjä, tavukoodi ja ohjelman suorittaminen</a><br />
+                <a href="https://web.microsoftstream.com/video/70e5b0ad-a1ac-4857-98b1-499778f638cd">📼 Laskuoperaatiot, int, long, double ja laskuvirheet</a><br />
+                <a href="https://web.microsoftstream.com/video/2dc12d8b-c449-49e4-be02-c694ff32aa68">📼 Muuttujat (int), niiden määrittely ja käyttäminen</a><br />
+                <a href="https://web.microsoftstream.com/video/c8362d33-bdbf-4344-852d-d9c82a5e015b">📼 Tietotyypit long, double ja String</a><br />
+                <a href="https://web.microsoftstream.com/video/8e4d9ea2-a5d1-4805-997b-09656ab51238">📼 Merkkijonojen yhdistäminen (String) ja kokonaislukujen jako-operaatiot</a><br />
+                <a href="https://web.microsoftstream.com/video/8d390425-62c2-4bbe-b85b-d32d8e577f4d">📼 Syötteiden lukeminen (Scanner) ja HeiEtunimi-tehtävä</a><br />
             </td>
         </tr>
         <tr>
