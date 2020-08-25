@@ -35,7 +35,7 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 <a href="https://vw4.viope.com/login?org=hh">🔗 Viope-rekisteröityminen</a> (valitse <em>Ohjelmointi 1, SWD4TN032-3009 ☀️</em>)<br />
                 <a href="../../wiki/Ohjelmoinnin-aloitus">📝 Muistiinpanot</a><br />
                 <a href="src/viikko1/perusteet/">📁 Oppitunnin esimerkkikoodit</a><br />
-                <br /><br />
+                <br />
                 <strong>Videot:</strong><br />
                 <a href="https://web.microsoftstream.com/video/2d26c6ab-1852-404c-a509-15b43cb3dd64">📼 Eclipse-sovelluskehitin ja tehtävän palauttaminen Viopeen</a><br />
                 <a href="https://web.microsoftstream.com/video/955af22a-09ec-4bc6-acac-1215bab1bece">📼 Java-kääntäjä, tavukoodi ja ohjelman suorittaminen</a><br />
