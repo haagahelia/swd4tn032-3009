@@ -1,7 +1,8 @@
-package viikko1.perusteet;
+package viikko1.perusteet; // tämä rivi poistetaan Viopessa
 
 import java.util.Scanner;
 
+// Älä kopioi vastausta suoraan Viopeen, vaan toteuta oma ratkaisusi!
 public class HeiEtunimi {
 
     public static void main(String[] args) {

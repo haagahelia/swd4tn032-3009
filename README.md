@@ -52,8 +52,7 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
             <td>
                 <strong>Ehtolauseet</strong><br />
                 <a href="../../wiki/Totuusarvot-ja-ehtolauseet">📝 Muistiinpanot</a><br />
-                <!--a href="src/viikko1/ehtorakenteet/th">📁 Esimerkkikoodit (TH)</a><br />
-                <br /-->
+                <a href="src/viikko1/ehtolauseet/">📁 Esimerkkikoodit (TH)</a><br />
             </td>
         </tr>
         <tr>
