@@ -53,6 +53,16 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 <strong>Ehtolauseet</strong><br />
                 <a href="../../wiki/Totuusarvot-ja-ehtolauseet">📝 Muistiinpanot</a><br />
                 <a href="src/viikko1/ehtolauseet/">📁 Esimerkkikoodit (TH)</a><br />
+                <br />
+                <strong>Videot:</strong><br />
+                <a href="https://web.microsoftstream.com/video/0fcecdc5-4bb9-43d4-a7a3-5533289551e0">📼 Kokonaislukujen jakaminen ja liukulukujen pyöristäminen (Juhlat-tehtävä)</a><br />
+                <a href="https://web.microsoftstream.com/video/0aed3688-a819-4bd5-9087-c2b624fbfeae">📼 Totuusarvot ja boolean-muuttujat</a><br />
+                <a href="https://web.microsoftstream.com/video/78eab594-7560-4ff3-89db-cd5ea58603c7">📼 Ehtojen yhdistäminen: ja- sekä tai-operaatiot</a><br />
+                <a href="https://web.microsoftstream.com/video/699b310b-58b2-49fa-80d3-6e8f34c71eb9">📼 If-ehtolause ja Eclipsen varoitusten korjaaminen</a><br />
+                <a href="https://web.microsoftstream.com/video/63385687-dce8-4f47-a7d9-714b251f1f15">📼 Vertailut useilla vaihtoehtoisilla tavoilla: <code>==</code>, <code>!=</code>, <code>!</code></a><br />
+                <a href="https://web.microsoftstream.com/video/663db56f-390c-48cc-b197-85179cf2d52f">📼 else ja else if -rakenteet: kangaskassi-esimerkki
+</a><br />
+                <a href="https://web.microsoftstream.com/video/f515288c-56ec-4cc0-ac96-bda94e8686cc">📼 Kellonajan selvittäminen: LocalTime ja Tervehdys-tehtävä</a><br />
             </td>
         </tr>
         <tr>
