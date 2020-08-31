@@ -36,7 +36,7 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 <a href="../../wiki/Ohjelmoinnin-aloitus">📝 Muistiinpanot</a><br />
                 <a href="src/viikko1/perusteet/">📁 Oppitunnin esimerkkikoodit</a><br />
                 <br />
-                <strong>Videot:</strong><br />
+                <strong>Oppitunnin videot:</strong><br />
                 <a href="https://web.microsoftstream.com/video/2d26c6ab-1852-404c-a509-15b43cb3dd64">📼 Eclipse-sovelluskehitin ja tehtävän palauttaminen Viopeen</a><br />
                 <a href="https://web.microsoftstream.com/video/955af22a-09ec-4bc6-acac-1215bab1bece">📼 Java-kääntäjä, tavukoodi ja ohjelman suorittaminen</a><br />
                 <a href="https://web.microsoftstream.com/video/70e5b0ad-a1ac-4857-98b1-499778f638cd">📼 Laskuoperaatiot, int, long, double ja laskuvirheet</a><br />
@@ -52,9 +52,9 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
             <td>
                 <strong>Ehtolauseet</strong><br />
                 <a href="../../wiki/Totuusarvot-ja-ehtolauseet">📝 Muistiinpanot</a><br />
-                <a href="src/viikko1/ehtolauseet/">📁 Esimerkkikoodit (TH)</a><br />
+                <a href="src/viikko1/ehtolauseet/">📁 Oppitunnin esimerkkikoodit</a><br />
                 <br />
-                <strong>Videot:</strong><br />
+                <strong>Oppitunnin videot:</strong><br />
                 <a href="https://web.microsoftstream.com/video/0fcecdc5-4bb9-43d4-a7a3-5533289551e0">📼 Kokonaislukujen jakaminen ja liukulukujen pyöristäminen (Juhlat-tehtävä)</a><br />
                 <a href="https://web.microsoftstream.com/video/0aed3688-a819-4bd5-9087-c2b624fbfeae">📼 Totuusarvot ja boolean-muuttujat</a><br />
                 <a href="https://web.microsoftstream.com/video/78eab594-7560-4ff3-89db-cd5ea58603c7">📼 Ehtojen yhdistäminen: ja- sekä tai-operaatiot</a><br />
@@ -73,7 +73,7 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 <a href="../../wiki/Toistorakenteet">📝 Muistiinpanot</a><br />
                 <a href="src/viikko2/toistorakenteet/">📁 Oppitunnin esimerkkikoodit</a><br />
                 <br />
-                <strong>Videot:</strong><br />
+                <strong>Oppitunnin videot:</strong><br />
                 <a href="https://web.microsoftstream.com/video/c58fca05-1cbd-4cf8-9869-f84ad31209a2">📼 Sisäkkäiset ehtorakenteet ja Math-luokka / MatkalippujenHinnat.java</a><br />
                 <a href="https://web.microsoftstream.com/video/ececddca-5ca6-453a-9d3f-65d1e701ba3f">📼 While-toistorakenne</a><br />
                 <a href="https://web.microsoftstream.com/video/d6547f01-2f9e-4fe3-bfe7-8b396d4b26ea">📼 While-toistorakenne ja toiston neskeyttäminen (break)</a><br />
