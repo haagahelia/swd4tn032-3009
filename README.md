@@ -71,8 +71,14 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
             <td>
                 <strong>Toistorakenteet</strong><br />
                 <a href="../../wiki/Toistorakenteet">📝 Muistiinpanot</a><br />
-                <!--a href="src/viikko2/toisto/th">📁 Esimerkkikoodit (TH)</a><br />
-                <br /-->
+                <a href="src/viikko2/toistorakenteet/">📁 Oppitunnin esimerkkikoodit</a><br />
+                <br />
+                <strong>Videot:</strong><br />
+                <a href="https://web.microsoftstream.com/video/c58fca05-1cbd-4cf8-9869-f84ad31209a2">📼 Sisäkkäiset ehtorakenteet ja Math-luokka / MatkalippujenHinnat.java</a><br />
+                <a href="https://web.microsoftstream.com/video/ececddca-5ca6-453a-9d3f-65d1e701ba3f">📼 While-toistorakenne</a><br />
+                <a href="https://web.microsoftstream.com/video/d6547f01-2f9e-4fe3-bfe7-8b396d4b26ea">📼 While-toistorakenne ja toiston neskeyttäminen (break)</a><br />
+                <a href="https://web.microsoftstream.com/video/1c548a60-8027-4b25-a7d1-816991070513">📼 For-toistorakenne</a><br />
+                <a href="https://web.microsoftstream.com/video/cfc1a7bc-96b3-4353-84ce-83d3f34a0ee1">📼 FizzBuzz-esimerkki, ehtorakenteiden soveltaminen toistorakenteessa</a><br />
             </td>
         </tr>
         <tr>
@@ -168,7 +174,7 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 <br/>
                 <em>Lisämateriaali:</em><br />
                 <a href="https://video.haaga-helia.fi/media/Luokat+ja+oliot+osa+7+++kokoojamuuttuja/0_8k2wjem9">📼 Kokoojamuuttujan hyödyntäminen Playlist-tehtävän kaltaisessa ongelmassa</a><br />
-                <a href="">📼 Pelaajat listalla / "olioiden summan laskeminen"</a><br />
+                <a href="https://video.haaga-helia.fi/media/Oliot+listallaA+pituuksien+summan+laskeminen/0_c16cldiu">📼 Pelaajat listalla / "olioiden summan laskeminen"</a><br />
             </td>
         </tr>
         <tr>
