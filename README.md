@@ -86,7 +86,7 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
             <td>2.9.</td>
             <td>
                 <strong>Merkkijonot</strong><br />
-                <a href="../../wiki/Muuttujien-roolit-ja-merkkijonot">📝 Muistiinpanot</a><br />
+                <a href="../../wiki/Merkkijonot">📝 Muistiinpanot</a><br />
                 <!--a href="src/viikko2/merkkijonot/th">📁 Esimerkkikoodit (TH)</a><br /-->
             </td>
         </tr>
