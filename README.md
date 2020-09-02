@@ -87,7 +87,18 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
             <td>
                 <strong>Merkkijonot</strong><br />
                 <a href="../../wiki/Merkkijonot">📝 Muistiinpanot</a><br />
-                <!--a href="src/viikko2/merkkijonot/th">📁 Esimerkkikoodit (TH)</a><br /-->
+                <a href="src/viikko2/merkkijonot/">📁 Oppitunnin esimerkkikoodit</a><br />
+                <br />
+                <strong>Oppitunnin videot:</strong><br />
+                <a href="https://web.microsoftstream.com/video/923c1e1d-8e36-4e71-8ddd-4c126a978934">📼 Toistorakenteet ja kotitalousvähennys-tehtävä
+</a><br />
+                <a href="https://web.microsoftstream.com/video/2a20e193-1d89-4155-8998-ceaeb742099f">📼 Merkkijonojen vertailu, ==, equals ja equalsIgnoreCase</a><br />
+                <a href="https://web.microsoftstream.com/video/7afdbfeb-61f8-48d3-8842-4b5723b9fb21">📼 Merkkijonojen metodit ja muuttumattomuus</a><br />
+                <a href="https://web.microsoftstream.com/video/58425bc9-c844-48cc-8667-838861b37d8f">📼 Merkkijono-operaatiot ja metodikutsujen ketjuttaminen</a><br />
+                <a href="https://web.microsoftstream.com/video/cb88e4a5-ce49-42c3-ab94-9763375ba5eb">📼 Erikoismerkit merkkijonoissa</a><br />
+                <a href="https://web.microsoftstream.com/video/f8b57b2e-4b8f-4313-a1f4-e943987460e2">📼 Osamerkkijonot ja merkkijono läpikäynti + palindromi-esimerkki</a><br />
+                <a href="https://web.microsoftstream.com/video/003660e2-0186-48a8-ae64-c4364a39e495">📼 Ohjelman suorituksen tutkiminen Java visualizerilla</a><br />
+                <a href="https://web.microsoftstream.com/video/f0b7e8fd-e95a-44c1-9af4-a1b34eaad31c">📼 Säännölliset lausekkeet</a><br />
             </td>
         </tr>
         <tr>
