@@ -107,10 +107,20 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
             <td>
                 <strong>Listat</strong><br />
                 <a href="../../wiki/Listat">📝 Muistiinpanot</a><br />
-                <!--a href="src/viikko3/listat/th">📁 Esimerkkikoodit (TH)</a><br /-->
+                <a href="src/viikko3/listat/">📁 Oppitunnin esimerkkikoodit</a><br />
                 <br />
                 <em>Lisämateriaali (Ohjelmoinnin MOOC):</em><br />
                 <a href="https://ohjelmointi-19.mooc.fi/osa-3/2-listat" target="_blank">Listamuuttujan käyttö useamman arvon tallentamiseen</a><br />
+                <a href="https://github.com/swd1tn002/mooc.fi-2019-osa3/" target="_blank">Tehtäväpohjat</a><br />
+                <br />
+                <strong>Oppitunnin videot:</strong><br />
+                <a href="https://web.microsoftstream.com/video/d41419e6-0c14-4538-9865-e76aa1478ed3">📼 Tehtäväpohjien kloonaaminen GitHubista</a><br />
+                <a href="https://web.microsoftstream.com/video/92da1fd4-dc4d-4469-9f96-d6c0a9b18acc">📼 Javan listatyypit ja listojen luominen</a><br />
+                <a href="https://web.microsoftstream.com/video/1ea2d865-e14e-4d2c-a514-55f2a8360293">📼 Listojen operaatiot: add, get, size...</a><br />
+                <a href="https://web.microsoftstream.com/video/d10b4dfe-bb44-481c-accb-5c4c50f87f35">📼 Listamuuttujien määrittely ja listatyyppien yhteensopivuus</a><br />
+                <a href="https://web.microsoftstream.com/video/a7b40cc4-049f-41a6-8345-ac82c6361101">📼 Listan sisällön tutkiminen ja sisällön läpikäynti</a><br />
+                <a href="https://web.microsoftstream.com/video/ad0cd980-1d48-4987-942f-cb1e5ca58240">📼 Listan järjestäminen ja kopioiminen
+</a><br />
             </td>
         </tr>
         <tr>
