@@ -132,7 +132,14 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 <a href="src/viikko3/taulukot/">📁 Oppitunnin esimerkkikoodit</a><br />
                 <a href="https://cscircles.cemc.uwaterloo.ca/java_visualize/">🔗 Java Visualizer -työkalu</a><br />
                 <a href="https://cscircles.cemc.uwaterloo.ca/java_visualize/#code=import+java.util.Arrays%3B%0A%0Apublic+class+Kaupunkitaulukko+%7B%0A%0A++++public+static+void+main(String%5B%5D+args)+%7B%0A%0A++++++++String%5B%5D+kaupungit+%3D+%7B+%22Rauma%22,+%22Helsinki%22,+%22Espoo%22,+%22Vantaa%22,+%22Turku%22+%7D%3B%0A%0A++++++++System.out.println(%22Alkuper%C3%A4inen%3A%22)%3B%0A++++++++System.out.println(Arrays.toString(kaupungit))%3B%0A%0A++++++++System.out.println()%3B%0A%0A++++++++String%5B%5D+kaupungitSort+%3D+Arrays.copyOf(kaupungit,+kaupungit.length)%3B%0A%0A++++++++Arrays.sort(kaupungitSort)%3B%0A%0A++++++++System.out.println(%22Sorttauksen+j%C3%A4lkeen%3A%22)%3B%0A++++++++System.out.println(Arrays.toString(kaupungit))%3B%0A++++++++System.out.println(Arrays.toString(kaupungitSort))%3B%0A%0A++++%7D%0A%7D%0A&mode=display&curInstr=0">🔗 Kaupungit-esimerkki Visualizerissa (taulukon kopioiminen)</a><br />
-                <br/>
+                <br />
+                <strong>Oppitunnin videot:</strong><br />
+                <a href="https://web.microsoftstream.com/video/05c5f40f-328d-4663-98f3-f356fd89cacd">📼 Taulukkomuuttujat, arvojen lisääminen ja taulukon tulostaminen</a><br />
+                <a href="https://web.microsoftstream.com/video/11e70997-9ae5-41f8-9142-a984f0280ac8">📼 Taulukon luominen valmiilla arvoilla + Java Visualizer</a><br />
+                <a href="https://web.microsoftstream.com/video/2b8b35d8-aecc-47c0-9b8c-bfeba85bae52">📼 Merkkijonojen pilkkominen merkkijonotaulukoiksi</a><br />
+                <a href="https://web.microsoftstream.com/video/c0f24d60-6e8b-4434-81a2-49e79e12b88a">📼 Taulukon arvojen läpikäynti: for ja for-each</a><br />
+                <a href="https://web.microsoftstream.com/video/55a330fe-30df-4535-b8b4-ac5263e22da6">📼 Viittaustyyppisten arvojen muuttaminen + Java Visualizer</a><br />
+                <br />
                 <em>Lisämateriaali:</em><br />
                 <a href="https://video.haaga-helia.fi/media/Taulukot+osa+1/0_mbinzbve">📼 Taulukot osa 1</a><br />
                 <a href="https://video.haaga-helia.fi/media/Taulukot+osa+2A+Arrays-apuluokka/0_jorn81gr">📼 Taulukot osa 2: Arrays-apuluokka</a><br />
