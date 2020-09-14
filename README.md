@@ -171,7 +171,7 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 <strong>Ajan käsitteleminen Javassa<br />
                 Ohjelman paketointi ja suorittaminen Eclipsen ulkopuolella<br />
                 Komentoriviparametrit</strong><br />
-                <a href="../../wiki/Ajan-k%C3%A4sittely-Javassa">📝 Muistiinpanot</a><br />
+                <a href="../../wiki/Ajan-käsittely-ja-ohjelman-kääntäminen">📝 Muistiinpanot</a><br />
                 <!--a href="src/viikko4/aika/th">📁 Esimerkkikoodit (TH)</a><br /-->
                 <br/>
                 <em>Lisämateriaali:</em><br />
