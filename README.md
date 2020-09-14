@@ -152,8 +152,16 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
             <td>
                 <strong>Staattiset luokkametodit, parametrit ja paluuarvot</strong><br />
                 <a href="../../wiki/Metodit">📝 Muistiinpanot</a><br />
-                <!--a href="src/viikko4/metodit/th">📁 Esimerkkikoodit (TH)</a><br />
-                <br /-->
+                <a href="src/viikko4/metodit/">📁 Oppitunnin esimerkkikoodit</a><br />
+                <br />
+                <strong>Oppitunnin videot:</strong><br />
+                <a href="https://web.microsoftstream.com/video/d0266f32-aad8-4480-89ff-998502ead32a">📼 Metodien terminologia ja main-metodi</a><br />
+                <a href="https://web.microsoftstream.com/video/032b019e-689a-4fee-9fbe-154d64dbb2e8">📼 Oman metodin määrittely ja kutsuminen</a><br />
+                <a href="https://web.microsoftstream.com/video/78895458-bee0-41e5-9ce4-4de484baab78">📼 Parametrien välittäminen omille metodeille</a><br />
+                <a href="https://web.microsoftstream.com/video/261be2fd-63a6-42c8-85e3-bada4e51fea4">📼 Paluuarvojen palauttaminen ja vastaanottaminen</a><br />
+                <a href="https://web.microsoftstream.com/video/d9a19395-8d0f-428e-8649-cf05d9c31312">📼 Toisissa luokissa olevien metodien kutsuminen ja metodien näkyvyys</a><br />
+                <a href="https://web.microsoftstream.com/video/90129541-ad0e-48e2-b3c9-043ded34b663">📼 Demo: Listan muuttaminen metodissa muuttaa sen kaikkialla</a><br />
+                <a href="https://web.microsoftstream.com/video/c104e446-ed8c-4fb7-8d3f-ec3b867bcda4">📼 Extra: satunnaisen nimen generointi omassa metodissa</a><br />
             </td>
         </tr>
         <tr>
