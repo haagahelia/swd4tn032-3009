@@ -172,7 +172,16 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 Ohjelman paketointi ja suorittaminen Eclipsen ulkopuolella<br />
                 Komentoriviparametrit</strong><br />
                 <a href="../../wiki/Ajan-käsittely-ja-ohjelman-kääntäminen">📝 Muistiinpanot</a><br />
-                <!--a href="src/viikko4/aika/th">📁 Esimerkkikoodit (TH)</a><br /-->
+                <a href="src/viikko4/aika/">📁 Oppitunnin esimerkkikoodit</a><br />
+                <br />
+                <strong>Oppitunnin videot:</strong><br />
+                <a href="https://web.microsoftstream.com/video/f7aa89e6-bb68-4b25-8cae-c7b52ed4fc48">📼 Ajan käsitteleminen Javassa: vanha ja nykyinen tapa + Aikaluokat ja aikaoliot</a><br />
+                <a href="https://web.microsoftstream.com/video/f58a4fc7-9fe4-4736-be4d-b8609b51d1a0">📼 Ajan laskeminen ja vertaileminen</a><br />
+                <a href="https://web.microsoftstream.com/video/51e7d278-9d32-46ee-8e21-fe60d8398909">📼 Karkausvuosi itse laskettuna vs. Javan valmiilla metodilla</a><br />
+                <a href="https://web.microsoftstream.com/video/c307891c-f8e3-4e07-b22b-dcf93bb8c062">📼 Ajanjaksot: Period, DAYS...</a><br />
+                <a href="https://web.microsoftstream.com/video/dc13b6d1-cdfa-4436-a551-7441dbeb6765">📼 Ajan esittäminen ja käsittely merkkijonona</a><br />
+                <a href="https://web.microsoftstream.com/video/f6f9bfc0-d6f2-490b-8178-e78e2081a9d7">📼 Ohjelman kääntäminen, paketoiminen ja suorittaminen Eclipsen ulkopuolella</a><br />
+                <a href="https://web.microsoftstream.com/video/88d12056-1027-4769-855b-b720aee20cc4">📼 Komentoriviparametrit ja String[] args</a><br />
                 <br/>
                 <em>Lisämateriaali:</em><br />
                 <a href="https://docs.oracle.com/javase/8/docs/api/java/time/LocalDate.html">🔗 Java API: LocalDate</a><br />
