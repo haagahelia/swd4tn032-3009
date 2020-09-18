@@ -266,14 +266,10 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
             </td>
         </tr>
         <tr>
-            <td>Ke</td>
-            <td>7.10.</td>
+            <td><del>Ke</del></td>
+            <td><del>7.10.</del></td>
             <td>
-                <strong>Pikkuprojekti</strong><br />
-                <ul>
-                    <li>GMail-yhteensopiva osoitekirja</li>
-                    <li>Optio: Telegram-botti</li>
-                </ul>
+                <strong>Oppitunti peruttu Bite-valintakokeen valvonnan vuoksi</strong>
             </td>
         </tr>
         <tr>
