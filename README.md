@@ -197,8 +197,17 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 Käsitteet luokka ja olio<br />
                 Oliometodit ja -muuttujat<br /></strong>
                 <a href="../../wiki/Oliot">📝 Muistiinpanot</a><br />
-                <!--a href="src/viikko4/oliot/th">📁 Esimerkkikoodit (TH)</a><br />
-                <br /-->
+                <a href="src/viikko5/oliot/">📁 Oppitunnin esimerkkikoodit</a><br />
+                <br />
+                <strong>Oppitunnin videot:</strong><br />
+                <a href="https://web.microsoftstream.com/video/d7b2f03d-5645-45d4-90ee-be57c24e4938">📼 Olio-ohjelmoinnin perusidea ja -käsitteet</a><br />
+                <a href="https://web.microsoftstream.com/video/e80348dd-6aad-47e6-8a5e-baff1670b236">📼 Oman luokan ja oliomuuttujien määritteleminen</a><br />
+                <a href="https://web.microsoftstream.com/video/e5c8e1eb-162b-49e8-90c4-2062bede6fd2">📼 Oliomuuttujat ja -metodit sekä 'this'</a><br />
+                <a href="https://web.microsoftstream.com/video/6e66f9f1-d613-44e5-a5c1-2add1b14380a">📼 Extra:  Lähdekoodien vieminen GitHubiin</a><br />
+                <a href="https://web.microsoftstream.com/video/60c538a4-6361-43aa-a4d6-80bfc60925c1">📼 Konstruktorin määrittely ja konstruktorikutsut</a><br />
+                <a href="https://web.microsoftstream.com/video/3f6c4138-4064-49a6-848a-d6d7a07bfd8f">📼 Getterit ja setterit</a><br />
+                <a href="https://web.microsoftstream.com/video/5e9153c1-c936-45c0-a6d2-359de1c4c4c2">📼 Kahden saman luokan olion välinen logiikka metodissa</a><br />
+                <a href="https://web.microsoftstream.com/video/d11e28b4-b52b-4d26-af29-6198077003e1">📼 toString-metodi ja olioiden merkkijonoesitykset</a><br />
                 <br/>
                 <em>Lisämateriaali:</em><br />
                 <a href="https://video.haaga-helia.fi/media/Luokat+ja+oliot+osa+1/0_njq4rntg">📼 Olio-ohjelmoinnin teoriaosuus</a><br />
