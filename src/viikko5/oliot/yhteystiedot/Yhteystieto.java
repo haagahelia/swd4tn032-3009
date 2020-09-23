@@ -23,4 +23,9 @@ public class Yhteystieto {
     public String getPuhelin() {
         return puhelin;
     }
+
+    @Override
+    public String toString() {
+        return this.getNimi() + " (" + this.getSahkoposti() + ", " + this.getPuhelin() + ")";
+    }
 }
