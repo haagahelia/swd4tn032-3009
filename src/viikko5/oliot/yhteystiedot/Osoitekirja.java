@@ -12,6 +12,9 @@ public class Osoitekirja {
     }
 
     public Yhteystieto etsiNimella(String hakusana) {
+        if (hakusana.isEmpty()) {
+            return null;
+        }
         for (Yhteystieto y : this.yhteystiedot) {
             // verrataan hakusanaa yhteystiedon nimeen!
             String nimi = y.getNimi();
