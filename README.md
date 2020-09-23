@@ -223,10 +223,14 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 <strong>Olio-ohjelmointi jatkuu:<br/>
                 Luokkien yhteyssuhteet<br/>
                 Olioita listoilla ja listoja olioissa</strong><br/> 
-                <a href="../../wiki/osoitekirja_projekti">📝 Esimerkin speksi (TH)</a><br />
-                <!--a href="src/viikko5/oliot/addressbook/th">📁 Esimerkkikoodit (AddressBook, TH)</a><br />
-                <br /-->
+                <a href="../../wiki/osoitekirja_projekti">📝 Tunnin esimerkin lyhyt kuvaus</a><br />
+                <a href="src/viikko5/oliot/">📁 Oppitunnin esimerkkikoodit</a><br />
                 <br/>
+                <strong>Oppitunnin videot:</strong><br />
+                <a href="https://web.microsoftstream.com/video/20d4a83b-56de-4c5d-8dd5-9eaa9ef1b66a">📼 Olioiden yhteyssuhteet ja null-arvojen käsittely</a><br />
+                <a href="https://web.microsoftstream.com/video/4c94030a-4f30-46d1-8c61-b7efd78b9740">📼 Olioita listoilla ja listoja olioissa 1 / 2</a><br />
+                <a href="https://web.microsoftstream.com/video/f2fdb7dc-df89-4371-9688-13090220d0a0">📼 Olioita listoilla ja listoja olioissa 2 / 2</a><br />
+                <br />
                 <em>Lisämateriaali:</em><br />
                 <a href="https://video.haaga-helia.fi/media/Luokat+ja+oliot+osa+7+++kokoojamuuttuja/0_8k2wjem9">📼 Kokoojamuuttujan hyödyntäminen Playlist-tehtävän kaltaisessa ongelmassa</a><br />
                 <a href="https://video.haaga-helia.fi/media/Oliot+listallaA+pituuksien+summan+laskeminen/0_c16cldiu">📼 Pelaajat listalla / "olioiden summan laskeminen"</a><br />
