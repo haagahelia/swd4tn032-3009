@@ -227,18 +227,12 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 <a href="../../wiki/osoitekirja_projekti">📝 Tunnin esimerkin lyhyt kuvaus</a><br />
                 <a href="src/viikko5/oliot/">📁 Oppitunnin esimerkkikoodit</a><br />
                 <br/>
-                <a href="https://web.microsoftstream.com/video/a0f3c7de-8d0f-4104-bc49-b698e1462663">📼 Olioiden kertaus: olioiden läpikäyntiä listoilla</a><br />
-                <a href="https://web.microsoftstream.com/video/5aac76a5-24b1-45fd-aeff-e0489b9b3bc8">📼 Olioiden "samanlaisuus" ja equals-metodi</a><br />
-                <a href="https://web.microsoftstream.com/video/a159b211-561f-4eee-942e-22cbf027169c">📼 Olioiden hakeminen listalta: equals, contains ja indexOf</a><br />
-                <a href="https://web.microsoftstream.com/video/e38464ca-cb86-4e04-97e0-6553a62a5270">📼 🌶️ Extra: omien olioiden järjestäminen listalla</a><br />
-                <a href="https://web.microsoftstream.com/video/8c9d933e-29be-46da-aff7-1f5e00e39d3b">📼 Merkkijonot: merkkijonojen vertailu equals ja equalsIgnoreCase</a><br />
-                <br />
                 <strong>Oppitunnin videot:</strong><br />
                 <a href="https://web.microsoftstream.com/video/20d4a83b-56de-4c5d-8dd5-9eaa9ef1b66a">📼 Olioiden yhteyssuhteet ja null-arvojen käsittely</a><br />
                 <a href="https://web.microsoftstream.com/video/4c94030a-4f30-46d1-8c61-b7efd78b9740">📼 Olioita listoilla ja listoja olioissa 1 / 2</a><br />
                 <a href="https://web.microsoftstream.com/video/f2fdb7dc-df89-4371-9688-13090220d0a0">📼 Olioita listoilla ja listoja olioissa 2 / 2</a><br />
                 <br />
-                <em>Lisämateriaali:</em><br />
+                <em>Lisämateriaali (Viope-vinkkejä):</em><br />
                 <a href="https://video.haaga-helia.fi/media/Luokat+ja+oliot+osa+7+++kokoojamuuttuja/0_8k2wjem9">📼 Kokoojamuuttujan hyödyntäminen Playlist-tehtävän kaltaisessa ongelmassa</a><br />
                 <a href="https://video.haaga-helia.fi/media/Oliot+listallaA+pituuksien+summan+laskeminen/0_c16cldiu">📼 Pelaajat listalla / "olioiden summan laskeminen"</a><br />
             </td>
@@ -251,6 +245,13 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 <a href="../../wiki/Olioiden-vertailu">📝 Muistiinpanot</a><br />
                 <a href="src/viikko6/oliot/">📁 Oppitunnin esimerkkikoodit</a><br />
                 <br/>
+                <strong>Oppitunnin videot:</strong><br />
+                <a href="https://web.microsoftstream.com/video/a0f3c7de-8d0f-4104-bc49-b698e1462663">📼 Olioiden kertaus: olioiden läpikäyntiä listoilla</a><br />
+                <a href="https://web.microsoftstream.com/video/5aac76a5-24b1-45fd-aeff-e0489b9b3bc8">📼 Olioiden "samanlaisuus" ja equals-metodi</a><br />
+                <a href="https://web.microsoftstream.com/video/a159b211-561f-4eee-942e-22cbf027169c">📼 Olioiden hakeminen listalta: equals, contains ja indexOf</a><br />
+                <a href="https://web.microsoftstream.com/video/e38464ca-cb86-4e04-97e0-6553a62a5270">📼 🌶️ Extra: omien olioiden järjestäminen listalla</a><br />
+                <a href="https://web.microsoftstream.com/video/8c9d933e-29be-46da-aff7-1f5e00e39d3b">📼 Merkkijonot: merkkijonojen vertailu equals ja equalsIgnoreCase</a><br />
+                <br />
                 <em>Lisämateriaali:</em><br />
                 <a href="https://video.haaga-helia.fi/media/Viittaukset%2C+alkeistietotyypit+ja+null/0_xqxbgc52">📼 Viittaukset, alkeistietotyypit ja null</a><br />
             </td>
