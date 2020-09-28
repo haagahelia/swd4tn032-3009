@@ -93,6 +93,7 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 <a href="https://web.microsoftstream.com/video/923c1e1d-8e36-4e71-8ddd-4c126a978934">📼 Toistorakenteet ja kotitalousvähennys-tehtävä
 </a><br />
                 <a href="https://web.microsoftstream.com/video/2a20e193-1d89-4155-8998-ceaeb742099f">📼 Merkkijonojen vertailu, ==, equals ja equalsIgnoreCase</a><br />
+                <a href="https://web.microsoftstream.com/video/8c9d933e-29be-46da-aff7-1f5e00e39d3b">📼 Merkkijonot: merkkijonojen vertailu equals ja equalsIgnoreCase</a><br />
                 <a href="https://web.microsoftstream.com/video/7afdbfeb-61f8-48d3-8842-4b5723b9fb21">📼 Merkkijonojen metodit ja muuttumattomuus</a><br />
                 <a href="https://web.microsoftstream.com/video/58425bc9-c844-48cc-8667-838861b37d8f">📼 Merkkijono-operaatiot ja metodikutsujen ketjuttaminen</a><br />
                 <a href="https://web.microsoftstream.com/video/cb88e4a5-ce49-42c3-ab94-9763375ba5eb">📼 Erikoismerkit merkkijonoissa</a><br />
@@ -226,6 +227,12 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
                 <a href="../../wiki/osoitekirja_projekti">📝 Tunnin esimerkin lyhyt kuvaus</a><br />
                 <a href="src/viikko5/oliot/">📁 Oppitunnin esimerkkikoodit</a><br />
                 <br/>
+                <a href="https://web.microsoftstream.com/video/a0f3c7de-8d0f-4104-bc49-b698e1462663">📼 Olioiden kertaus: olioiden läpikäyntiä listoilla</a><br />
+                <a href="https://web.microsoftstream.com/video/5aac76a5-24b1-45fd-aeff-e0489b9b3bc8">📼 Olioiden "samanlaisuus" ja equals-metodi</a><br />
+                <a href="https://web.microsoftstream.com/video/a159b211-561f-4eee-942e-22cbf027169c">📼 Olioiden hakeminen listalta: equals, contains ja indexOf</a><br />
+                <a href="https://web.microsoftstream.com/video/e38464ca-cb86-4e04-97e0-6553a62a5270">📼 🌶️ Extra: omien olioiden järjestäminen listalla</a><br />
+                <a href="https://web.microsoftstream.com/video/8c9d933e-29be-46da-aff7-1f5e00e39d3b">📼 Merkkijonot: merkkijonojen vertailu equals ja equalsIgnoreCase</a><br />
+                <br />
                 <strong>Oppitunnin videot:</strong><br />
                 <a href="https://web.microsoftstream.com/video/20d4a83b-56de-4c5d-8dd5-9eaa9ef1b66a">📼 Olioiden yhteyssuhteet ja null-arvojen käsittely</a><br />
                 <a href="https://web.microsoftstream.com/video/4c94030a-4f30-46d1-8c61-b7efd78b9740">📼 Olioita listoilla ja listoja olioissa 1 / 2</a><br />
