@@ -36,6 +36,10 @@ public class Kaupunki {
         return this.vakiluku;
     }
 
+    public double getPintaAla() {
+        return this.pintaAla;
+    }
+
     public void setVakiluku(int uusiVakiluku) {
         // set-metodeissa voidaan tehdä myös tarkastuksia annetulle datalle:
         if (uusiVakiluku >= 0) {

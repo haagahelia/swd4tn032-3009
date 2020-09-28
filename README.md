@@ -242,7 +242,7 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
             <td>
                 <strong>Olioiden vertailu ja järjestäminen</strong><br/> 
                 <a href="../../wiki/Olioiden-vertailu">📝 Muistiinpanot</a><br />
-                <!--a href="src/viikko6/oliot/vertailu">📁 Esimerkkikoodit (TH)</a><br /-->
+                <a href="src/viikko6/oliot/">📁 Oppitunnin esimerkkikoodit</a><br />
                 <br/>
                 <em>Lisämateriaali:</em><br />
                 <a href="https://video.haaga-helia.fi/media/Viittaukset%2C+alkeistietotyypit+ja+null/0_xqxbgc52">📼 Viittaukset, alkeistietotyypit ja null</a><br />
