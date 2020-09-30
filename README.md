@@ -262,8 +262,15 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
             <td>
                 <strong>Poikkeukset</strong><br />
                 <a href="../../wiki/Poikkeukset">📝 Muistiinpanot</a><br />
-                <!--a href="src/viikko6/poikkeukset/th">📁 Esimerkkikoodit (TH)</a><br />
-                <a href="src/viikko5/oliot/addressbook/th">📁 Esimerkkikoodit (AddressBook, TH)</a><br /-->
+                <a href="src/viikko6/poikkeukset/">📁 Oppitunnin esimerkkikoodit</a><br />
+                <br/>
+                <strong>Oppitunnin videot:</strong><br />
+                <a href="https://web.microsoftstream.com/video/a089f75b-2576-4705-aba4-a18cfa9b08bc">📼 Ohjelmointikurssin pisteidenlasku ja arvosanat</a><br />
+                <a href="https://web.microsoftstream.com/video/254e5d52-31e8-4430-a89f-ae99ef538bfb">📼 Poikkeusten peruskäsitteet, try ja catch</a><br />
+                <a href="https://web.microsoftstream.com/video/cf3b1aef-6113-43f8-99ac-0c6ccb3e6e75">📼 Rinnakkaiset tietovirrat ja race condition</a><br />
+                <a href="https://web.microsoftstream.com/video/8468cdf9-1b5b-41d8-b2f8-64530a0a4e93">📼 Useiden eri tyyppisten poikkeusten käsittely</a><br />
+                <a href="https://web.microsoftstream.com/video/f01624ec-0e20-48ba-b6e8-918f2b2b6c65">📼 Poikkeuksien heittäminen: throw</a><br />
+                <a href="https://web.microsoftstream.com/video/fd418d0c-77ca-47f8-a8be-26891ae85b86">📼 Tarkastetut poikkeukset: kaupungit verkosta</a><br />
                 <br/>
                 <em>Lisämateriaali:</em><br />
                 <a href="https://video.haaga-helia.fi/media/Poikkeukset+osa+1A+try%2C+catch%2C+throw%2C+finally/0_vll0cxij">📼 Poikkeukset osa 1: try, catch, throw, finally </a><br />
