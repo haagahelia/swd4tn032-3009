@@ -354,12 +354,12 @@ Tällä  kurssilla opetellaan Java-kielen syntaksia, mutta erityisesti pyrimme o
 ```java
 package arviointi;
 
-import static arviointi.OsasuoritustenArviointi.laskeArvosana;
+import static arviointi.OsasuoritustenArviointi.*;
 
 public class KurssinArviointi {
     // tehtävien ja kokeen maksimipisteet lukitaan kurssin aikana:
-    private static int viopeMaksimi;
-    private static int kokeenMaksimi;
+    private static int viopeMaksimi = 58; // bonukset huomioiden maksimi on 73
+    private static int kokeenMaksimi = 25;
 
     public static int laskeLoppuarvosana(int tehtavienPisteet, int kokeenPisteet) {
         double viopeArvosana = laskeArvosana(tehtavienPisteet, viopeMaksimi);
