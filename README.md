@@ -310,7 +310,9 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
         <tr>
             <td>Ke</td>
             <td>14.10.</td>
-            <td><strong>Kurssin loppukoe</strong>
+            <td>
+                <strong>Kurssin loppukoe</strong><br />
+                <strong>Viope-tehtävien DL 14.10. klo 9.</strong>
             </td>
         </tr>
     </tbody>
