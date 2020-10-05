@@ -285,12 +285,16 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
             <td>
                 <strong>Tekstitiedostojen lukeminen ja tallentaminen</strong><br />
                 <a href="../../wiki/Tiedostot">📝 Muistiinpanot</a><br />
+                <a href="src/viikko7/tiedostot/">📁 Oppitunnin esimerkkikoodit</a><br />
+                <br/>
+                <strong>Oppitunnin videot:</strong><br />
+                <a href="https://web.microsoftstream.com/video/a7fc6726-ac27-4da4-a8b5-9e8509cca2bd">📼 Tekstitiedoston lukeminen ja merkistökoodaukset</a><br />
+                <a href="https://web.microsoftstream.com/video/9668f524-e99b-423b-8e1b-32e32c1eb96c">📼 CSV-tiedoston lukeminen ja olioiden luonti</a><br />
+                <a href="https://web.microsoftstream.com/video/8061165a-ca73-406c-976e-52c620bed8ff">📼 Tiedoston tallentaminen ja CSV-tiedoston generointi</a><br />
+                <a href="https://web.microsoftstream.com/video/1d066780-25d7-4d7d-b227-e097e3844014">📼 Tiedostonkäsittely osana ohjelmaa ja AddressBook-tehtävä</a><br />
                 <br/>
                 <em>Lisämateriaali:</em><br />
                 <a href="https://video.haaga-helia.fi/media/Tiedostojen+k%C3%A4sittely/0_96nk6czv">📼 Tiedostojen käsittely</a><br />
-                <!--a href="src/viikko7/tiedostot/th/weather">📁 Weather data -esimerkki (TH)</a><br />
-                <a href="csv/saatiedot.csv">📁 saatiedot.csv (<a href="https://en.ilmatieteenlaitos.fi/open-data-licence">© Ilmatieteen laitos</a>)</a><br />
-                <a href="src/viikko7/tiedostot/th">📁 Muut esimerkkikoodit (TH)</a><br /-->
             </td>
         </tr>
         <tr>
@@ -352,6 +356,10 @@ Tällä  kurssilla opetellaan Java-kielen syntaksia, mutta erityisesti pyrimme o
    * vähintään 40 % tehtävistä on oltava tehty kurssikokeeseen mennessä
 
    * arvostellaan asteikolla 0-5 (40 % - 100 % tehtävistä)
+
+   * Viopessa on tarjolla myös syventäviä ja kertaavia bonustehtäviä, joiden tekeminen kasvattaa pistekertymään, mutta joiden tekemättä jättäminen ei laske arvosanaa
+
+   * **kaikkien Viope-tehtävien DL on ke 14.10. klo 9 (kurssikokeen alku)**
 
 2. Kurssikoe (50 % loppuarvosanasta)
 
