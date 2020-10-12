@@ -308,7 +308,12 @@ Kurssin opetus järjestetään lukujärjestyksen mukaisesti 1. periodilla maanan
             <td>Ma</td>
             <td>12.10.</td>
             <td>
-                Kurssin sisällön kertaus
+                <strong>Kurssin sisällön kertaus</strong><br />
+                <a href="src/viikko8/kertaus/">📁 Oppitunnin esimerkkikoodit</a><br />
+                <br/>
+                <strong>Oppitunnin videot:</strong><br />
+                <a href="https://web.microsoftstream.com/video/7c65bed8-7724-4ee9-94eb-3b715c8ad630">📼 Kurssin kertaus: merkkijonot, metodit, ehtorakenteet, poikkeukset</a><br />
+                <a href="https://web.microsoftstream.com/video/e547ee47-b4ac-4182-8a1c-bdcfe3ef060a">📼 </a><br />
             </td>
         </tr>
         <tr>
