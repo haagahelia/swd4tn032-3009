@@ -1,3 +1,9 @@
+# Kurssi on päättynyt
+
+Tämä kurssi on päättynyt ja arkistoitu. Viimeisimmän kurssitoteutuksen löydät osoitteesta https://ohjelmointi1.github.io.
+
+<br /><br /><hr /><br /><br />
+
 # Ohjelmointi 1, syksy 2020 ☀️
 
 Tervetuloa Haaga-Helian ohjelmointi 1 -opintojaksolle! 
